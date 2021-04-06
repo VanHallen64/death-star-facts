@@ -20,14 +20,15 @@ html, body {
 }
 .banner-image {
     display: block;
-    
 }
 h1 {
     font-size: 2em;
 }
 .container {
     position: relative;
-    max-width: 1000px;
+    width: 70%;
+    max-width: 1800px;
+    min-width: 600px;
     margin: auto;
     box-shadow: 0px 0px 15px 3px white;
 }
@@ -37,7 +38,6 @@ section {
     justify-content: center;
     gap: 30px;
     padding: 40px 80px 30px;
-    min-width: 450px;
     font-family: 'Fjalla One', sans-serif;
 }
 #section-1 {
@@ -112,7 +112,6 @@ footer {
     font-size: 0.9em;
     color: white;
     padding: 50px 200px 30px;
-    min-width: 450px;
     font-family: 'Fjalla One', sans-serif;
 }
 .footer-main {
