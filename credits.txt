@@ -1,0 +1,16 @@
+Images: 
+    deathstar.png - https://www.nicepng.com/ourpic/u2q8u2u2i1y3y3e6_death-star-art-png/
+    caution.webp - https://www.shutterstock.com/video/clip-1058781547-yellow-black-hazard-tape-background-distressed-grunge
+    death star pixel art - https://wallpapersafari.com/w/SCNUVi
+
+Font: Soloist by Iconian Fonts - https://www.dafont.com/soloist.font
+
+Sprites: Made by me but based on Ian Shaffer's work - https://www.pinterest.ca/ianzaneshaffer/8-bit/
+
+Audio:
+    Party Crowd - Daniel Simion - https://soundbible.com/2163-Party-Crowd.html
+    Laser Blasts - https://soundbible.com/472-Laser-Blasts.html
+    Laser Blaster - https://soundbible.com/470-Laser-Blaster.html
+    Tortured Person Screaming - https://soundbible.com/213-Tortured-Person-Screaming.html
+    Torture - Ragdoll485 - https://soundbible.com/1791-Torture.html
+    Male Grunt - https://soundbible.com/462-Male-Grunt.html

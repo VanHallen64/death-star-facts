@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&:wght@300&display=swap');
+@font-face {
+    font-family: 'NavBarText';
+    src:  url('fonts/soloiststraight1.ttf') format('truetype');
+  }
+
+html, body { 
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
+#myCanvas {
+    display: block;
+    position: absolute;
+    background-color: black;
+    margin: 0;
+    
+}
+.banner-image {
+    display: block;
+    
+}
+h1 {
+    font-size: 2em;
+}
+.container {
+    position: relative;
+    max-width: 1800px;
+    margin: auto;
+    box-shadow: 0px 0px 15px 3px white;
+}
+section {
+    display: grid;
+    background-color: white;
+    justify-content: center;
+    gap: 30px;
+    padding: 40px 80px 30px;
+    min-width: 450px;
+    font-family: 'Fjalla One', sans-serif;
+}
+#section-1 {
+    background-color: white;
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+#section-2 {
+    grid-template-columns: 50% 50%;
+    background-color: rgb(206, 206, 206);
+    font-size: 1.6em;
+    color: black;
+}
+#section-3 {
+    grid-template-columns: 50% 50%;
+    background-color: white;
+    font-size: 1.6em;
+}
+#section-4 {
+    font-size: 1.6em;
+    background: url(images/animation.gif) no-repeat center center, url(images/caution.webp) repeat-x; 
+    background-size: cover, 1920px 100%;
+    color: black;
+    height: 300px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.grid-item {
+    margin: auto;
+    display: grid;
+}
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    text-align: center;
+}
+
+.navbar li {
+    display: inline-block;
+    font-family: "NavBarText";
+    font-size: 1.8em;
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 16px;
+    text-decoration: none;
+}
+.navbar li a:hover {
+    background-color: white;
+    color: black;
+}
+
+.active {
+    background-color: #000000;
+}
+#facts-list {
+    font-size: 0.8em;
+}
+#facts-list li {
+    padding: 15px;
+}
+footer {
+    background-color: rgb(0, 0, 0);
+    font-size: 0.9em;
+    color: white;
+    padding: 50px 200px 30px;
+    min-width: 450px;
+    font-family: 'Fjalla One', sans-serif;
+}
+.footer-main {
+    display: grid;
+    grid-template-columns: 54% 23% 23%;
+    line-height:24px;
+    padding-bottom: 30px;
+}
+.footer-item {
+    border-right: 0.5px solid rgb(73, 73, 73);
+    padding-left: 20px;
+}
+.footer-main ul {
+    list-style-type: none;
+}
+
+.footer-main ul li a {
+    color: white;
+    text-decoration: none;
+}
